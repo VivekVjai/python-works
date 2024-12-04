@@ -1,0 +1,7 @@
+hari,django,1000
+
+vinay,django,2000
+
+vinu,django,3000
+
+sanjay,dajango,4000

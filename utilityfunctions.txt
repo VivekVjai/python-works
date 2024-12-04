@@ -1,0 +1,8 @@
+print("message") => print a meassage in console
+
+type(object)=>  retuen datatype of object
+
+input("message") => read value from console , always return string value 
+
+round(object,precision) => decimal point kazhinju ethra value venam ennu theerumanikunn
+
